@@ -1,6 +1,5 @@
 package com.corbin.topcoder;
 
-import com.corbin.topcoder.ANDEquation;
 import org.junit.*;
 
 import static org.junit.Assert.assertTrue;

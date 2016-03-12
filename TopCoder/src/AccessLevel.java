@@ -3,6 +3,7 @@
  */
 public class AccessLevel {
     public String canAccess(int[] rights, int minPermission) {
+        // use string builder for efficiency - string are immutable
         StringBuilder sb = new StringBuilder();
 
         for (int i = 0; i < rights.length; i++) {

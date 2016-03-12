@@ -1,3 +1,5 @@
+package com.corbin.topcoder;
+
 /**
  * Scored 237
  */

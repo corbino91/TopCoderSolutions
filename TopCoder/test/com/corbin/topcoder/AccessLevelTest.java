@@ -1,3 +1,6 @@
+package com.corbin.topcoder;
+
+import com.corbin.topcoder.AccessLevel;
 import org.junit.*;
 
 import static org.junit.Assert.assertTrue;
